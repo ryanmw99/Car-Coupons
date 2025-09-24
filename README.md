@@ -1,12 +1,7 @@
 # Car-Coupons
 Customer coupon acceptance rates
 
-**Resources**
-
-* ```data/coupons.csv```: Yiou can download this file to play with the data yourself
-* ```propmt.ipynb```: More details and supporting code is in this notebook
-
-
+**Assignment notebook:** https://github.com/ryanmw99/Car-Coupons/blob/main/prompt.ipynb 
 
 ## What is the problem?
 This project aims to understand differences between customers who accept the diriving coupon and those who do not. 
@@ -15,9 +10,9 @@ It uses explorartory data analysis, statistical summarization, and data visilual
 ## What is the data?
 This data is from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechinical Turk. The survey describes different driving scenarios, including the current time, weather, and passenger, and then asks people whether they will accept the coupon if they are the driver. There are three possible answers people can choose from:
 
-**"Right away"**
-**"Later, before the coupon expires"**
-**"No, I do not want the coupon"**
+- **"Right away"**
+- **"Later, before the coupon expires"**
+- **"No, I do not want the coupon"**
 
 
 ## What are the findings?
@@ -164,7 +159,3 @@ Based on the redemption sensitivity to direction and destination on coupons, I d
 
 Checkout the ```prompt.ipynb notebook``` for all the details!!!
 
-## Resources
-
-* ```data/coupons.csv```: Yiou can download this file to play with the data yourself
-* ```propmt.ipynb```: More details and supporting code is in this notebook
