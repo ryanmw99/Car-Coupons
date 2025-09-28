@@ -16,39 +16,27 @@ This data is from the UCI Machine Learning Repository and was collected via a su
 
 
 ## What are the findings?
-
+The findings show that the older and the more people that the people travel with the more likely they are to be paying customers that accept coupons. Additionally, those with income below 50k accept coupons at the highest rates. Meanwhile, those under 30 who visit establishments regularly do not accept coupons and their business can be relied upon. 
 ## What do I recommend?
-
-_**This shows that bar-goers are a good target audience for our program.**_
+That being said, if the coupons are marketed to the two extremes, then more will be accepted.
+_**This shows that regular bar-goers are already invested and a good target audience are groups and low incomes.**_
 
 ## Independent Investigations
 
-
-### Investigating Destination / Direction of Travel
- 
-
-**Hypothesis: _Could it be that redemption rate is impacted by the destination and direction of travel for different coupon types?_**
+### Investigating Expensive Restuarants
+**Hypothesis: _Could it be that redemption rate is affected by the type of restuarant and value of coupon they are going to?_**
 
 
 
-**Observations when comparing home versus work as a destination**
+**Observations when comparing home versus other as a destination**
 
 
 
-**Observations when comparing the directionality towards or away from the coupon redemption site**
+**Observations when comparing having a friend, partner, or being alone in the car**
 
 
 
-**Observations when the destination is 'No Urgent Place'**
-
-
-
-
-### Investigating Time of Day
-
- 
-
-**Hypothesis: _Does the Time of Day have an effect on redeeming the coupons?_**
+**Observations when the of the overall trends in their acceptances**
 
 
 
