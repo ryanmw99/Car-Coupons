@@ -49,7 +49,7 @@ While people who go out alone use coupons at a lower rate they are the largest p
 The coupons were accepted much more regularly by friends and passengers and people in certain occupations. If other occupations could be marketed to the same as Farming Fishing and Forestry and groups, which accept twice as much, then other occupations would accept more regularly. People also used coupons alarmingly more on the way home than away from there, which means there is an untapped market for half of their travel. 
 
 **Overal Product Recommendations**
-The most effective strategy would be to continue to market to patrons who are alone and under 30 as well as those who regularly go out with passengers within 15-25 minutes of their home. In addition, since certain occupations accept twice as many coupons the product should be marketed to other occupations through their companies, so that those in the occupations use coupons while they go out in the untapped market away from home. 
+The most effective strategy would be to continue to market to patrons who are alone and under 30 as well as those who regularly go out with passengers within 15-25 minutes of their home, since they will use the coupon right away or before it expires. In addition, since certain occupations accept twice as many coupons the product should be marketed to other occupations through their companies. Right now those those in the occupations do not use coupons while they go out in the untapped market away from home saying they do not want the coupon, but that could change. 
 
 Checkout the ```prompt.ipynb notebook``` for all the details!!!
 
