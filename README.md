@@ -1,7 +1,7 @@
 # Car-Coupons
 Customer coupon acceptance rates
 
-**Assignment notebook:** https://github.com/ryanmw99/Car-Coupons/blob/main/prompt.ipynb 
+**Assignment notebook:** [https://github.com/ryanmw99/Car-Coupons/blob/main/prompt.ipynb ](https://github.com/ryanmw99/Car-Coupons/blob/main/prompt.ipynb)
 
 ## What is the problem?
 This project aims to understand differences between customers who accept the diriving coupon and those who do not. 
